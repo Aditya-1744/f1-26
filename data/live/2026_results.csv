@@ -1,0 +1,133 @@
+year,round,circuit_name,driver_code,finish_position,grid_position,status,points,dnf
+2026,1,Melbourne,RUS,1.0,1.0,Finished,25.0,0
+2026,1,Melbourne,ANT,2.0,2.0,Finished,18.0,0
+2026,1,Melbourne,LEC,3.0,4.0,Finished,15.0,0
+2026,1,Melbourne,HAM,4.0,7.0,Finished,12.0,0
+2026,1,Melbourne,NOR,5.0,6.0,Finished,10.0,0
+2026,1,Melbourne,VER,6.0,20.0,Finished,8.0,0
+2026,1,Melbourne,BEA,7.0,12.0,Lapped,6.0,0
+2026,1,Melbourne,LIN,8.0,9.0,Lapped,4.0,0
+2026,1,Melbourne,BOR,9.0,10.0,Lapped,2.0,0
+2026,1,Melbourne,GAS,10.0,14.0,Lapped,1.0,0
+2026,1,Melbourne,OCO,11.0,13.0,Lapped,0.0,0
+2026,1,Melbourne,ALB,12.0,15.0,Lapped,0.0,0
+2026,1,Melbourne,LAW,13.0,8.0,Lapped,0.0,0
+2026,1,Melbourne,COL,14.0,16.0,Lapped,0.0,0
+2026,1,Melbourne,SAI,15.0,21.0,Lapped,0.0,0
+2026,1,Melbourne,PER,16.0,18.0,Lapped,0.0,0
+2026,1,Melbourne,STR,17.0,22.0,Lapped,0.0,0
+2026,1,Melbourne,ALO,18.0,17.0,Retired,0.0,1
+2026,1,Melbourne,BOT,19.0,19.0,Retired,0.0,1
+2026,1,Melbourne,HAD,20.0,3.0,Retired,0.0,1
+2026,1,Melbourne,PIA,21.0,5.0,Did not start,0.0,1
+2026,1,Melbourne,HUL,22.0,11.0,Did not start,0.0,1
+2026,2,Shanghai,ANT,1.0,1.0,Finished,25.0,0
+2026,2,Shanghai,RUS,2.0,2.0,Finished,18.0,0
+2026,2,Shanghai,HAM,3.0,3.0,Finished,15.0,0
+2026,2,Shanghai,LEC,4.0,4.0,Finished,12.0,0
+2026,2,Shanghai,BEA,5.0,10.0,Finished,10.0,0
+2026,2,Shanghai,GAS,6.0,7.0,Finished,8.0,0
+2026,2,Shanghai,LAW,7.0,14.0,Finished,6.0,0
+2026,2,Shanghai,HAD,8.0,9.0,Finished,4.0,0
+2026,2,Shanghai,SAI,9.0,17.0,Lapped,2.0,0
+2026,2,Shanghai,COL,10.0,12.0,Lapped,1.0,0
+2026,2,Shanghai,HUL,11.0,11.0,Lapped,0.0,0
+2026,2,Shanghai,LIN,12.0,15.0,Lapped,0.0,0
+2026,2,Shanghai,BOT,13.0,19.0,Lapped,0.0,0
+2026,2,Shanghai,OCO,14.0,13.0,Lapped,0.0,0
+2026,2,Shanghai,PER,15.0,21.0,Lapped,0.0,0
+2026,2,Shanghai,VER,16.0,8.0,Retired,0.0,1
+2026,2,Shanghai,ALO,17.0,18.0,Retired,0.0,1
+2026,2,Shanghai,STR,18.0,20.0,Retired,0.0,1
+2026,2,Shanghai,PIA,19.0,5.0,Did not start,0.0,1
+2026,2,Shanghai,NOR,20.0,6.0,Did not start,0.0,1
+2026,2,Shanghai,BOR,21.0,16.0,Did not start,0.0,1
+2026,2,Shanghai,ALB,22.0,22.0,Did not start,0.0,1
+2026,3,Suzuka,ANT,1.0,1.0,Finished,25.0,0
+2026,3,Suzuka,PIA,2.0,3.0,Finished,18.0,0
+2026,3,Suzuka,LEC,3.0,4.0,Finished,15.0,0
+2026,3,Suzuka,RUS,4.0,2.0,Finished,12.0,0
+2026,3,Suzuka,NOR,5.0,5.0,Finished,10.0,0
+2026,3,Suzuka,HAM,6.0,6.0,Finished,8.0,0
+2026,3,Suzuka,GAS,7.0,7.0,Finished,6.0,0
+2026,3,Suzuka,VER,8.0,11.0,Finished,4.0,0
+2026,3,Suzuka,LAW,9.0,14.0,Finished,2.0,0
+2026,3,Suzuka,OCO,10.0,12.0,Finished,1.0,0
+2026,3,Suzuka,HUL,11.0,13.0,Finished,0.0,0
+2026,3,Suzuka,HAD,12.0,8.0,Finished,0.0,0
+2026,3,Suzuka,BOR,13.0,9.0,Finished,0.0,0
+2026,3,Suzuka,LIN,14.0,10.0,Finished,0.0,0
+2026,3,Suzuka,SAI,15.0,16.0,Finished,0.0,0
+2026,3,Suzuka,COL,16.0,15.0,Finished,0.0,0
+2026,3,Suzuka,PER,17.0,19.0,Finished,0.0,0
+2026,3,Suzuka,ALO,18.0,21.0,Lapped,0.0,0
+2026,3,Suzuka,BOT,19.0,20.0,Lapped,0.0,0
+2026,3,Suzuka,ALB,20.0,17.0,Lapped,0.0,0
+2026,3,Suzuka,STR,21.0,22.0,Retired,0.0,1
+2026,3,Suzuka,BEA,22.0,18.0,Retired,0.0,1
+2026,4,Miami Gardens,ANT,1.0,1.0,Finished,25.0,0
+2026,4,Miami Gardens,NOR,2.0,4.0,Finished,18.0,0
+2026,4,Miami Gardens,PIA,3.0,7.0,Finished,15.0,0
+2026,4,Miami Gardens,RUS,4.0,5.0,Finished,12.0,0
+2026,4,Miami Gardens,VER,5.0,2.0,Finished,10.0,0
+2026,4,Miami Gardens,HAM,6.0,6.0,Finished,8.0,0
+2026,4,Miami Gardens,COL,7.0,8.0,Finished,6.0,0
+2026,4,Miami Gardens,LEC,8.0,3.0,Finished,4.0,0
+2026,4,Miami Gardens,SAI,9.0,13.0,Finished,2.0,0
+2026,4,Miami Gardens,ALB,10.0,15.0,Finished,1.0,0
+2026,4,Miami Gardens,BEA,11.0,12.0,Lapped,0.0,0
+2026,4,Miami Gardens,BOR,12.0,21.0,Lapped,0.0,0
+2026,4,Miami Gardens,OCO,13.0,14.0,Lapped,0.0,0
+2026,4,Miami Gardens,LIN,14.0,16.0,Lapped,0.0,0
+2026,4,Miami Gardens,ALO,15.0,17.0,Lapped,0.0,0
+2026,4,Miami Gardens,PER,16.0,20.0,Lapped,0.0,0
+2026,4,Miami Gardens,STR,17.0,18.0,Lapped,0.0,0
+2026,4,Miami Gardens,BOT,18.0,19.0,Lapped,0.0,0
+2026,4,Miami Gardens,HUL,19.0,10.0,Retired,0.0,1
+2026,4,Miami Gardens,LAW,20.0,11.0,Retired,0.0,1
+2026,4,Miami Gardens,GAS,21.0,9.0,Retired,0.0,1
+2026,4,Miami Gardens,HAD,22.0,22.0,Retired,0.0,1
+2026,5,Montréal,ANT,1.0,2.0,Finished,25.0,0
+2026,5,Montréal,HAM,2.0,5.0,Finished,18.0,0
+2026,5,Montréal,VER,3.0,6.0,Finished,15.0,0
+2026,5,Montréal,LEC,4.0,8.0,Finished,12.0,0
+2026,5,Montréal,HAD,5.0,7.0,Lapped,10.0,0
+2026,5,Montréal,COL,6.0,10.0,Lapped,8.0,0
+2026,5,Montréal,LAW,7.0,12.0,Lapped,6.0,0
+2026,5,Montréal,GAS,8.0,14.0,Lapped,4.0,0
+2026,5,Montréal,SAI,9.0,15.0,Lapped,2.0,0
+2026,5,Montréal,BEA,10.0,16.0,Lapped,1.0,0
+2026,5,Montréal,PIA,11.0,4.0,Lapped,0.0,0
+2026,5,Montréal,HUL,12.0,11.0,Lapped,0.0,0
+2026,5,Montréal,BOR,13.0,13.0,Lapped,0.0,0
+2026,5,Montréal,OCO,14.0,17.0,Lapped,0.0,0
+2026,5,Montréal,STR,15.0,22.0,Lapped,0.0,0
+2026,5,Montréal,BOT,16.0,21.0,Lapped,0.0,0
+2026,5,Montréal,PER,17.0,20.0,Retired,0.0,1
+2026,5,Montréal,NOR,18.0,3.0,Retired,0.0,1
+2026,5,Montréal,RUS,19.0,1.0,Retired,0.0,1
+2026,5,Montréal,ALO,20.0,19.0,Retired,0.0,1
+2026,5,Montréal,ALB,21.0,18.0,Retired,0.0,1
+2026,5,Montréal,LIN,22.0,9.0,Did not start,0.0,1
+2026,6,Monte Carlo,ANT,1.0,1.0,Finished,25.0,0
+2026,6,Monte Carlo,HAM,2.0,3.0,Finished,18.0,0
+2026,6,Monte Carlo,HAD,3.0,5.0,Finished,15.0,0
+2026,6,Monte Carlo,PIA,4.0,7.0,Finished,12.0,0
+2026,6,Monte Carlo,LAW,5.0,10.0,Finished,10.0,0
+2026,6,Monte Carlo,LIN,6.0,15.0,Finished,8.0,0
+2026,6,Monte Carlo,GAS,7.0,9.0,Finished,6.0,0
+2026,6,Monte Carlo,ALB,8.0,11.0,Finished,4.0,0
+2026,6,Monte Carlo,OCO,9.0,17.0,Finished,2.0,0
+2026,6,Monte Carlo,ALO,10.0,21.0,Finished,1.0,0
+2026,6,Monte Carlo,BOR,11.0,16.0,Finished,0.0,0
+2026,6,Monte Carlo,RUS,12.0,6.0,Finished,0.0,0
+2026,6,Monte Carlo,HUL,13.0,13.0,Finished,0.0,0
+2026,6,Monte Carlo,COL,14.0,14.0,Finished,0.0,0
+2026,6,Monte Carlo,PER,15.0,18.0,Finished,0.0,0
+2026,6,Monte Carlo,SAI,16.0,12.0,Retired,0.0,1
+2026,6,Monte Carlo,LEC,17.0,4.0,Retired,0.0,1
+2026,6,Monte Carlo,STR,18.0,22.0,Retired,0.0,1
+2026,6,Monte Carlo,NOR,19.0,8.0,Retired,0.0,1
+2026,6,Monte Carlo,BEA,20.0,19.0,Retired,0.0,1
+2026,6,Monte Carlo,BOT,21.0,20.0,Retired,0.0,1
+2026,6,Monte Carlo,VER,22.0,2.0,Retired,0.0,1
